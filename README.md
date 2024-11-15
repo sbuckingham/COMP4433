@@ -40,7 +40,7 @@ Since the code is contained within a Jupyter Notebook:
 2. Run each cell sequentially to process the data and generate visualizations.
 3. To launch the Dash app:
     - Run the final cell in the notebook containing app.run_server() (uncommented if necessary) to start the app.
-    - Once running, visit http://127.0.0.1:8051 in your browser to access the interactive dashboard.
+    - Once running, visit http://127.0.0.1:8050 in your browser to access the interactive dashboard.
     
 ### Project Description
 The project analyzes energy data trends by state over time, allowing users to:
